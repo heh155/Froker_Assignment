@@ -13,6 +13,7 @@
    ![1](https://github.com/user-attachments/assets/45ba3dae-9023-4ef4-8fed-daa4a854bc42)
 ![2](https://github.com/user-attachments/assets/593f67f3-5c98-4dd4-8a78-0263c3eb54b4)
 <img width="940" alt="5th 2 0" src="https://github.com/user-attachments/assets/973a7d67-1ccd-48a4-968b-824128623c7b">
-![3](https://github.com/user-attachments/assets/0539d4e1-fe48-4ef5-a882-f430a66226a5)
+![3](https://github.com/user-attachments/assets/cee0f567-9564-4024-9037-29c748b2dc1b)
+
 5. This is the Footer
    <img width="941" alt="6th " src="https://github.com/user-attachments/assets/a92e6a6f-676d-482b-bbdc-03f0bf8cdb04">
