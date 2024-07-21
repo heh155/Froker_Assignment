@@ -1,0 +1,101 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 8px;
+}
+.sim{
+    display: flex;
+    list-style: none;
+    margin-right: 2rem;
+    text-align: center;
+}
+.homei{
+    border-bottom: 3px solid #0000;
+    color: #f76f32;
+    cursor: pointer;
+    font-family: Gilroy-SemiBold, sans-serif;
+    height: 100%;
+    padding: .5rem 1rem;
+    text-decoration: none;
+    text-transform: capitalize;
+    position: relative;
+    font-size: 20px;
+    
+}
+.blogsw{
+    border-bottom: 3px solid #0000;
+    color: #f76f32;
+    cursor: pointer;
+    font-family: Gilroy-SemiBold, sans-serif;
+    height: 100%;
+    padding: .5rem 1rem;
+    text-decoration: none;
+    position: relative;
+    font-size: 20px;
+
+}
+.discover{
+    border-bottom: 3px solid #0000;
+    color: #f76f32;
+    cursor: pointer;
+    font-family: Gilroy-SemiBold, sans-serif;
+    height: 100%;
+    padding: .5rem 1rem;
+    text-decoration: none;
+    position: relative;
+    font-size: 20px;
+
+}
+
+.homei:hover{
+   color: #f76f32;
+}
+.homei::before{
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 0%;
+    height: 3px;
+    background-color:#f76f32;
+    transition: all .5s;
+}
+
+.homei:hover::before{
+    width: 100%;
+}
+.blogsw:hover{
+    color: #f76f32;
+}
+.blogsw::before{
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 0%;
+    height: 3px;
+    background-color:#f76f32;
+    transition: all .5s;
+
+}
+.blogsw:hover::before{
+    width: 100%;
+}
+.discover:hover{
+    color: #f76f32;
+}
+.discover::before{
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 0%;
+    height: 3px;
+    background-color:#f76f32;
+    transition: all .5s;
+
+}
+.discover:hover::before{
+    width: 100%;
+}

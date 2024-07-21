@@ -1,0 +1,293 @@
+.wholebody {
+    margin-top: 6.6%;
+}
+.body1 {
+    margin-bottom: 20px;
+    width: 100%;
+}
+.froker-blog {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 30px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.froker-blog-span {
+    color: #f76f32;
+    font-family: Gilroy-Bold, sans-serif;
+    padding-right: 5px;
+}
+.froker-blog-span3, .sub {
+    color: #3d3d3d;
+    font-weight: 400;
+}
+.sub {
+    font-family: Gilroy-Bold, sans-serif;
+    font-size: clamp(24px,5vw,48px);
+    margin: 2rem auto;
+    max-width: 834px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.blogs {
+    display: flex;
+}
+.boox1 {
+    cursor: pointer;
+    height: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-decoration: none;
+    width: 50%;
+}
+ .subboox {
+    height: 100%;
+    width: 100%;
+}
+.autor, .ins {
+    font-family: Gilroy-SemiBold, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 1rem;
+}
+.ins, .inside {
+    text-align: left;
+}
+.bottom, .inside {
+    font-style: normal;
+}
+.bottom {
+    color: #fd7a33;
+    font-family: Gilroy-Bold, sans-serif;
+    font-size: clamp(1rem,1vw,1rem);
+    font-weight: 600;
+    padding-top: .6rem;
+    text-decoration-line: underline;
+}
+.sideblog {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.boox2 {
+    height: 60%;
+    padding-bottom: .5rem;
+    text-decoration: none;
+    width: 100%;
+}
+.subbboox {
+    display: flex;
+    justify-content: center;
+}
+.side {
+    display: flex;
+    flex-direction: column;
+    height: 80%;
+    justify-content: center;
+    padding-left: 1rem;
+    width: 100%;
+}
+.ins {
+    color: #1a1a1a;
+    font-size: clamp(1rem,1vw,2rem);
+    padding-bottom: .5rem;
+}
+.inside {
+    color: #667085;
+    font-family: Gilroy-Regular, sans-serif;
+    font-weight: 400;
+    line-height: clamp(1.2rem,1vw,1.2rem);
+}
+.boox2 {
+    height: 60%;
+    padding-bottom: .5rem;
+    text-decoration: none;
+    width: 100%;
+    cursor: pointer;
+    display: flex;
+}
+.subbboox {
+    display: flex;
+    justify-content: center;
+}
+.blogimg2 {
+    border-radius: 1rem;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.blogimg1, .subbboox {
+    height: 100%;
+    width: 100%;
+}
+.bottom2 {
+    color: #fd7a33;
+    font-family: Gilroy-Bold, sans-serif;
+    font-size: clamp(1rem,1vw,1rem);
+    font-weight: 600;
+    padding-top: .6rem;
+    text-decoration-line: underline;
+}
+.body2 {
+    margin-bottom: 20px;
+    width: 100%;
+}
+.headin {
+    font-feature-settings: lining-nums proportional-nums;
+    color: #333;
+    font-family: GilroyBold-☞, sans-serif;
+    font-size: clamp(36px,5vw,40px);
+    font-style: normal;
+    font-variant-numeric: lining-nums proportional-nums;
+    font-weight: 400;
+    margin-top: 4rem;
+    padding-bottom: 1rem;
+    text-align: left;
+}
+.blogss{
+    /* display: grid; */
+grid-template-columns: repeat(3, 1fr);
+padding-top: .5rem;
+place-items: "center";
+width: 100%;
+}
+.booxx {
+    padding: .5rem;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    padding-left: 5rem;
+    width: 100%;
+
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem; /* Adjust the gap as needed */
+  }
+  
+  .flex-item {
+    flex-basis: calc(33.33% - 1rem); /* 1rem to account for the gap */
+    box-sizing: border-box;
+  }
+  
+  .box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .image-container {
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image-wrapper {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+  }
+  
+  .blog-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 1rem;
+  }
+  
+  .author, .title, .description, .bottom {
+    margin: 0.5rem 0;
+  }
+  .parentletter {
+    border: 1px solid #ababab;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    width: 86%;
+}
+.newsletter {
+    background-color: #fff;
+    display: flex;
+    margin: 3rem 2rem 2rem;
+    width: 90%;
+}
+.letterimg {
+    display: flex;
+    justify-content: center;
+    width: 30%;
+}
+.pic {
+    object-fit: cover;
+    width: 100%;
+}
+.lettersecond {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: .5rem;
+    width: 70%;
+}
+.subscribetonews {
+    color: #3d3d3d;
+    font-family: GilroyBold-☞, sans-serif;
+    font-size: clamp(1rem,2vw,2rem);
+    font-weight: 600;
+    line-height: 2rem;
+    padding: .5rem;
+    text-align: left;
+}
+.subnews{
+    display: none;
+}
+.subscribebutton {
+    border: 1px solid #ababab;
+    border-radius: 30px;
+    display: flex;
+    height: 56px;
+    overflow: hidden;
+    width: 100%;
+}
+.mail {
+    align-items: center;
+    color: #ababab;
+    display: flex;
+    height: 100%;
+    justify-content: flex-start;
+    text-indent: 1rem;
+    width: 70%;
+}
+.subscribee {
+    align-items: center;
+    background-color: #fe8849;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    font-family: GilroyBold-☞, sans-serif;
+    font-size: clamp(.5rem,2vw,1rem);
+    justify-content: center;
+    letter-spacing: .02rem;
+    width: 40%;
+}
+.subscribe {
+    align-items: center;
+    background-color: #fe8849;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    font-family: GilroyBold-☞, sans-serif;
+    font-size: clamp(.5rem,2vw,1rem);
+    justify-content: center;
+    letter-spacing: .02rem;
+    width: 40%;
+}
+  

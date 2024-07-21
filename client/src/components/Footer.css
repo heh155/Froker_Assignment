@@ -1,0 +1,116 @@
+.footer-columns {
+    align-items: flex-start;
+    display: flex;
+    flex: 1 1;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 4%;
+}
+.column1 {
+    display: flex;
+    justify-content: flex-start;
+    width: auto;
+}
+.column1 img {
+    align-self: center;
+}
+.child {
+    display: flex;
+    flex-direction: row;
+}
+.column3{
+    padding-left: 60px;
+}
+h4 {
+    box-sizing: border-box;
+    color: #f76f32;
+    font-family: GilroyBold-☞, sans-serif;
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+.row {
+    display: flex;
+    margin-bottom: 1rem;
+}
+.arr {
+    /* flex-shrink: 0; */
+    height: 12.997px;
+    width: 12.997px;
+}
+.home {
+    color: #3d3d3d;
+    flex-wrap: wrap;
+    font-family: GilroyRegular-☞, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 13px;
+    margin-bottom: 4%;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    padding-top: 0px;
+}
+.address, .maiil {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: flex-start;
+}
+.address {
+    flex-wrap: nowrap;
+    margin-bottom: 1rem;
+}
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+.whitefield-bengaluru-560066 {
+    color: #3d3d3d;
+    font-family: GilroyRegular-☞, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    text-align: left;
+}
+.maiil {
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.social-media {
+    display: flex;
+}
+.social-media a {
+    margin: .3rem;
+}
+img, video {
+    height: auto;
+    max-width: 100%;
+}
+.des {
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 100%;
+}
+.footersvg {
+    display: flex;
+    flex-wrap: nowrap;
+    height: auto;
+    width: 100%;
+}
+.centered-text {
+    color: #f0f8ff;
+    left: 50%;
+    padding: 5px 10px;
+    position: absolute;
+    text-align: center;
+    top: 70%;
+    transform: translate(-50%, -50%);
+}
+.desa {
+    display: none;
+}
