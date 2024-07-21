@@ -12,7 +12,7 @@
 4. Implemented Functionality for Increasing/Decreasing likes and Pagination
    ![1](https://github.com/user-attachments/assets/45ba3dae-9023-4ef4-8fed-daa4a854bc42)
 ![2](https://github.com/user-attachments/assets/593f67f3-5c98-4dd4-8a78-0263c3eb54b4)
-<img width="940" alt="5th 2 0" src="https://github.com/user-attachments/assets/973a7d67-1ccd-48a4-968b-824128623c7b">
+
 ![3](https://github.com/user-attachments/assets/cee0f567-9564-4024-9037-29c748b2dc1b)
 
 5. This is the Footer
